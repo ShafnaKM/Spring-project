@@ -1,0 +1,4 @@
+com\ust\app\hellospring1\HelloSpring1Application.class
+com\ust\app\hellospring1\controller\MyRestController.class
+com\ust\app\hellospring1\model\Customer.class
+com\ust\app\hellospring1\ServletInitializer.class
